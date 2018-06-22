@@ -1,0 +1,2 @@
+# deleteGithubFork
+批量删除github中fork的第三方
