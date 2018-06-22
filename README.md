@@ -5,10 +5,11 @@
 安装python3 (直接使用brew来安装brew install python3)
 
 安装BeautifulSoup和lxml  
-
+```
 pip3 install beautifulsoup4   
 
 pip3 install lxml
+```
 
 
 然后运行脚本 python3 deleteFork.py github用户名  github用户密码
